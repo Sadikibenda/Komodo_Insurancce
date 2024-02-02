@@ -1,0 +1,15 @@
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.AssemblyInfoInputs.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.AssemblyInfo.cs
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.csproj.AssemblyReference.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\bin\Debug\net8.0\Komodo_Repository.deps.json
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\bin\Debug\net8.0\Komodo_Repository.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\bin\Debug\net8.0\Komodo_Repository.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\bin\Debug\net8.0\Komodo_Data.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\bin\Debug\net8.0\Komodo_Data.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.csproj.CopyComplete
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\refint\Komodo_Repository.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\Komodo_Repository.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoInsurance\Komodo_Repository\obj\Debug\net8.0\ref\Komodo_Repository.dll
